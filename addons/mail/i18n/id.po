@@ -120,7 +120,7 @@ msgid ""
 "    </a>\n"
 "    % endif\n"
 "    using\n"
-"    <a target=\"_blank\" href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #875A7B;\">Odoo</a>.\n"
+"    <a target=\"_blank\" href=\"https://www.ant-tech.com\" style=\"text-decoration:none; color: #875A7B;\">ant Technology</a>.\n"
 "</p>\n"
 "</div>"
 msgstr ""
@@ -2355,7 +2355,7 @@ msgid ""
 "If you have setup a catch-all email domain redirected to the Odoo server, "
 "enter the domain name here."
 msgstr ""
-"Jika Anda memiliki setup domain catch-semua email yang dialihkan ke Odoo "
+"Jika Anda memiliki setup domain catch-semua email yang dialihkan ke ePos "
 "server, masukkan nama domain di sini."
 
 #. module: mail
@@ -3692,7 +3692,7 @@ msgstr "Jumlah pesan yang belum dibaca"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.message_user_assigned
 msgid "Odoo"
-msgstr "Odoo"
+msgstr "ePos"
 
 #. module: mail
 #. openerp-web
@@ -4833,7 +4833,7 @@ msgid ""
 "<jobs@example.odoo.com>"
 msgstr ""
 "Nama email alias, misalnya 'pekerjaan' jika Anda ingin menangkap email "
-"untuk<jobs@example.odoo.com></jobs@example.odoo.com>"
+"untuk<jobs@example.com></jobs@example.com>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_user_id
@@ -5628,7 +5628,7 @@ msgstr ""
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
 msgid "mycompany.odoo.com"
-msgstr "mycompany.odoo.com"
+msgstr "mycompany.ant-tech.com"
 
 #. module: mail
 #. openerp-web
