@@ -274,7 +274,7 @@ msgid ""
 "    </tr>\n"
 "    <tr>\n"
 "        <td align=\"center\">\n"
-"            Powered by <a target=\"_blank\" href=\"https://www.odoo.com\">Odoo</a>.\n"
+"            Powered by <a target=\"_blank\" href=\"https://www.ant-tech.com\">ant Technology</a>.\n"
 "        </td>\n"
 "    </tr>\n"
 "</tbody>\n"
@@ -340,7 +340,7 @@ msgstr ""
 "    </tr>\n"
 "    <tr>\n"
 "        <td align=\"center\">\n"
-"            Powered by <a target=\"_blank\" href=\"https://www.odoo.com\">Odoo</a>.\n"
+"            Powered by <a target=\"_blank\" href=\"https://www.ant-tech.com\">ant Technology</a>.\n"
 "        </td>\n"
 "    </tr>\n"
 "</tbody>\n"
@@ -706,7 +706,7 @@ msgstr "<span>Lihat</span>"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_planner
 msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>-Tim Odoo</strong>"
+msgstr "<strong>-Tim ant</strong>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_planner

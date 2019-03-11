@@ -241,7 +241,7 @@ msgstr "<span class=\"oe_logo_edit\">Sunting data Perusahaan</span>"
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.menu_secondary
 msgid "<span>Odoo</span>"
-msgstr "<span>Odoo</span>"
+msgstr "<span>ePos</span>"
 
 #. module: web
 #. openerp-web
@@ -1244,7 +1244,7 @@ msgstr "Formulir"
 #: code:addons/web/static/src/xml/base.xml:1338
 #, python-format
 msgid "Get this feature and much more with Odoo Enterprise!"
-msgstr "Dapatkan fitur ini dan lebih banyak lagi dengan Odoo Enterprise!"
+msgstr "Dapatkan fitur ini dan lebih banyak lagi dengan versi Enterprise!"
 
 #. module: web
 #. openerp-web
@@ -1597,7 +1597,7 @@ msgstr "Ke Atas"
 #: code:addons/web/static/src/xml/base.xml:1323
 #, python-format
 msgid "My Odoo.com account"
-msgstr "Akun Odoo.com saya"
+msgstr "Akun ePos saya"
 
 #. module: web
 #. openerp-web
@@ -1733,14 +1733,14 @@ msgstr "Obyek:"
 #: code:addons/web/static/src/js/core/dialog.js:51
 #, python-format
 msgid "Odoo"
-msgstr "Odoo"
+msgstr "ePOS"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:148
 #, python-format
 msgid "Odoo Apps will be available soon"
-msgstr "Odoo Apps akan segera tersedia"
+msgstr "Apps akan segera tersedia"
 
 #. module: web
 #. openerp-web
@@ -1749,28 +1749,28 @@ msgstr "Odoo Apps akan segera tersedia"
 #: code:addons/web/static/src/js/services/crash_manager.js:156
 #, python-format
 msgid "Odoo Client Error"
-msgstr "Eror Klien Odoo"
+msgstr "Eror Klien"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/fields/upgrade_fields.js:86
 #, python-format
 msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgstr "ePos Enterprise"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/services/crash_manager.js:118
 #, python-format
 msgid "Odoo Error"
-msgstr "Eror Odoo"
+msgstr "Eror"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/services/crash_manager.js:58
 #, python-format
 msgid "Odoo Session Expired"
-msgstr "Sesi Odoo Kadaluarsa"
+msgstr "Sesi Kadaluarsa"
 
 #. module: web
 #. openerp-web
@@ -1778,7 +1778,7 @@ msgstr "Sesi Odoo Kadaluarsa"
 #: code:addons/web/static/src/js/services/crash_manager.js:197
 #, python-format
 msgid "Odoo Warning"
-msgstr "Peringatan Odoo"
+msgstr "Peringatan"
 
 #. module: web
 #. openerp-web
@@ -2000,7 +2000,7 @@ msgstr "Disajikan oleh"
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
 msgid "Powered by <span>Odoo</span>"
-msgstr "Disajikan oleh <span>Odoo</span>"
+msgstr "Disajikan oleh <span>ant-Technology</span>"
 
 #. module: web
 #. openerp-web
@@ -2508,7 +2508,7 @@ msgid ""
 "one. The time in Odoo is displayed according to your field timezone."
 msgstr ""
 "Kesalahan Pencocokan Zona Waktu : Zona waktu dari browser Anda tidak cocok "
-"dengan yang dipilih. Waktu yang ditampilkan di Odoo disesuaikan dengan kolom"
+"dengan yang dipilih. Waktu yang ditampilkan disesuaikan dengan kolom"
 " zona waktu."
 
 #. module: web
@@ -2878,7 +2878,7 @@ msgstr ""
 #: code:addons/web/static/src/js/services/crash_manager.js:58
 #, python-format
 msgid "Your Odoo session expired. Please refresh the current web page."
-msgstr "Sesi Odoo Anda berakhir. Silakan refresh halaman web saat ini."
+msgstr "Sesi Anda berakhir. Silakan refresh halaman web saat ini."
 
 #. module: web
 #. openerp-web
