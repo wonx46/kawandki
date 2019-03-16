@@ -1107,7 +1107,7 @@ msgstr ""
 #: code:addons/mail/static/src/xml/thread.xml:109
 #, python-format
 msgid "Congratulations, your inbox is empty"
-msgstr ""
+msgstr "Kamu belum memiliki pesan.."
 
 #. module: mail
 #. openerp-web
