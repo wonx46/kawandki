@@ -2372,7 +2372,7 @@ msgstr "Alias tidak aktif"
 #: code:addons/mail/static/src/xml/client_action.xml:164
 #, python-format
 msgid "Inbox"
-msgstr "Kotak Pesan"
+msgstr "Kotak Pesan bro"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_compose_message_parent_id
