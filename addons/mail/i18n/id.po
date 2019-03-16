@@ -1106,14 +1106,14 @@ msgstr ""
 #. openerp-web
 #: code:addons/mail/static/src/xml/thread.xml:109
 #, python-format
-msgid "Congratulations, your inbox is empty"
+msgid "Congratulations, your inbox is emptyx"
 msgstr "Kamu belum memiliki pesan.."
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/js/client_action.js:647
 #, python-format
-msgid "Congratulations, your inbox is empty!"
+msgid "Congratulations, your inbox is empty!x"
 msgstr "Kamu belum memiliki pesan.."
 
 #. module: mail
