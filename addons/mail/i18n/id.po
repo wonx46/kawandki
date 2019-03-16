@@ -3,7 +3,7 @@
 # * mail
 # 
 # Translators:
-# Bonny Useful <bonny.useful@gmail.com>, 2017
+# Bonny Useful xx<bonny.useful@gmail.com>, 2017
 # Deddy Ddr <deddy.ddr@gmail.com>, 2017
 # Wahyu Setiawan <wahyusetiaaa@gmail.com>, 2017
 # oon arfiandwi (OonID) <oon.arfiandwi@gmail.com>, 2017
